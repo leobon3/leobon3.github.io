@@ -1,10 +1,10 @@
 body{
-	background-image:url(K.jpg);
+	
     background-size: cover;
     background-attachment: fixed;
 }
 h1{
-	font-style: Courier;
+	font-style: Serif;
 	text-align: center;
 }
 table{
@@ -12,11 +12,10 @@ table{
 	align-content: center;
 	font-family: 'Trebuchet MS', monospace;
 	text-align: center;
-	font-size: 175%;
-	border: solid c6c5c8;
+	font-size: 100%;
 	margin: auto;
  }
 th{
-	font-style: Courier;
+	font-style: Serif;
 	text-align: center;
 }
