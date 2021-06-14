@@ -8,6 +8,7 @@ table{
 	font-family: 'Serif';
 	text-align: center;
 	font-size: 150%;
+	border: solid #6b5b95;
 	margin: auto;
  }
 th{
