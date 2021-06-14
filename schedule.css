@@ -1,0 +1,22 @@
+body{
+	background-image:url(K.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+	font-style: Courier;
+	text-align: center;
+}
+table{
+	color: white;
+	align-content: center;
+	font-family: 'Trebuchet MS', monospace;
+	text-align: center;
+	font-size: 175%;
+	border: solid c6c5c8;
+	margin: auto;
+ }
+th{
+	font-style: Courier;
+	text-align: center;
+}
